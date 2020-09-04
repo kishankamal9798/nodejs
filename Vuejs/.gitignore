@@ -1,0 +1,11 @@
+node_modules
+config
+*.config.js
+log
+uploads
+package-lock.json
+*.zip
+dist*
+*.pdf
+environments
+.vscode
